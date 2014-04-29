@@ -18,7 +18,7 @@
 	</head>
 	<body>
 		<header>
-			<title>samokat</title>
+			<title>samokaty</title>
 		</header>
 		<ul>
 			<li><a href="?action=add">мнбши яюлнйюр</a></li>
